@@ -1,0 +1,7 @@
+*.i
+*.s
+*.o
+
+.vs/
+Release/
+*.vcxproj.*
